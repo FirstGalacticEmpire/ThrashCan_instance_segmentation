@@ -1,12 +1,21 @@
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-01.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-02.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-03.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-04.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-05.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-06.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-07.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-08.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-09.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-10.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-11.jpg)
+![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-12.jpg)
 # Documentation
 
 ## Yolact
 
 First please run:
-
 pip install -r requirements.txt
-
-
 
 ### Eval
 If you want to run our models please type:
@@ -14,7 +23,6 @@ If you want to run our models please type:
 Fo resnet 50 model:
 
 python src/models/yolact/eval.py --trained_model=models/yolact/best_model_adam.pth --config=yolact_resnet50_config --test
-
 
 For darknet model:
 
