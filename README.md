@@ -1,3 +1,6 @@
+
+Kacper Trebacz <br>
+Jan Gruszczynski <br>
 ![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-01.jpg)
 ![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-02.jpg)
 ![This is an image](https://raw.githubusercontent.com/FirstGalacticEmpire/ThrashCan_instance_segmentation/main/report/cv_project_3_jangru_kacpertre-03.jpg)
